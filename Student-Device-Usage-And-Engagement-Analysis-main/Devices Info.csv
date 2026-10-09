@@ -1,0 +1,6 @@
+DeviceType,Category,Avg_Battery_Life_Hours,Connectivity,Screen_Size_Inches
+Laptop,Computing,8,WiFi & Ethernet,15.6
+Smartphone,Mobile,10,WiFi & 4G,6.5
+Tablet,Tablet,12,WiFi,10.1
+Desktop,Computing,6,Ethernet,17.3
+Hybrid Device,Hybrid,9,WiFi & 5G,13.5
